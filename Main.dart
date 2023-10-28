@@ -23,6 +23,7 @@ void main() {
   for (var n in name) {
     print(n);
     print("");
+    print("object");
   }
   name.forEach((n) => print(n));
   //----------------------------
