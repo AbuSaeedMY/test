@@ -24,6 +24,7 @@ void main() {
     print(n);
     print("");
     print("object");
+    print("object");
   }
   name.forEach((n) => print(n));
   //----------------------------
